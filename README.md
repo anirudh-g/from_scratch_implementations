@@ -1,3 +1,3 @@
-# Model_Implementations_from_scratch
+# from_scratch_implementations
 
-This repository consists of my implementations of various Computer Vision and NLP architectures from scratch using PyTorch
+This repository consists of from the scratch implementations of various model architectures, training loops and dataset callables using Python, numpy, PyTorch
